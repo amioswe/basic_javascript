@@ -11,6 +11,7 @@ else if(amount>2500){
     const discount=20;
     const afterdiscount=amount/100*discount;
     console.log(afterdiscount);
+    
 
 }
 else{
